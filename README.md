@@ -11,8 +11,6 @@
   <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="40"/>
   <img src="https://cdn.simpleicons.org/python" alt="Python" width="40"/>
   <img src="https://cdn.simpleicons.org/go" alt="Go" width="40"/>
-  <img src="https://cdn.simpleicons.org/c" alt="C" width="40"/>
-  <img src="https://cdn.simpleicons.org/cplusplus" alt="C++" width="40"/>
   <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="40"/>
   <img src="https://cdn.simpleicons.org/express" alt="Express.js" width="40"/>
   <img src="https://cdn.simpleicons.org/react" alt="React" width="40"/>
