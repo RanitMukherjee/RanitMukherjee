@@ -3,6 +3,31 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=RanitMukherjee&label=Profile%20Views&color=0e75b6)](https://github.com/RanitMukherjee)
 [![An image of @jelly_phantasm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jelly_phantasm)](https://holopin.io/@jelly_phantasm)
 
+
+
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RanitMukherjee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&card_width=400" alt="Ranit's GitHub stats" height="200"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RanitMukherjee&theme=tokyonight&hide_border=false&card_width=400" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitMukherjee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=400&hide=jupyter%20notebook" alt="Top Languages" height="200"/>
+</p>
+
+
+
+
+---
+
+## 🏆 Achievements & Interests
+
+- 🏅 **Ranked 100th/444** in OES Hackathon, HackerEarth
+- 🥇 **Lead Developer**, Corridor Platform Hackathon (Top 8/50+ teams): Built Rule Builder system
+- 🏆 **Team Lead**, Smart India Hackathon 2023: Won college round, represented for Tinnitus Relief PS
+- 🌱 **Open Source Contributor:** Hacktoberfest 2022, Layer5, FOSS Hack 2024
+- 💡 **Interests:** Open source, AI/ML, NLP, full-stack & scalable web apps, game development, hackathons
+
 ---
 
 ## 🛠️ Tech Stack
@@ -25,32 +50,3 @@
   <img src="https://cdn.simpleicons.org/kubernetes" alt="Kubernetes" width="40"/>
   <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="40"/>
 </p>
-
-
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanitMukherjee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&card_width=400" alt="Ranit's GitHub stats" height="200"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RanitMukherjee&theme=tokyonight&hide_border=false&card_width=400" alt="GitHub Streak" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitMukherjee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=400&hide=jupyter%20notebook" alt="Top Languages" height="200"/>
-</p>
-
-
-
-
-
-
-
-
-
----
-
-## 🏆 Achievements & Interests
-
-- 🏅 **Ranked 100th/444** in OES Hackathon, HackerEarth
-- 🥇 **Lead Developer**, Corridor Platform Hackathon (Top 8/50+ teams): Built Rule Builder system
-- 🏆 **Team Lead**, Smart India Hackathon 2023: Won college round, represented for Tinnitus Relief PS
-- 🌱 **Open Source Contributor:** Hacktoberfest 2022, Layer5, FOSS Hack 2024
-- 💡 **Interests:** Open source, AI/ML, NLP, full-stack & scalable web apps, game development, hackathons
