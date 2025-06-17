@@ -20,7 +20,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RanitMukherjee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Ranit's GitHub stats" width="400" style="margin-right: 20px;"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=RanitMukherjee&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="400" style="margin-right: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitMukherjee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400"/>
 </p>
 
 
