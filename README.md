@@ -1,8 +1,8 @@
 # Hi, I'm Ranit Mukherjee 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=RanitMukherjee&label=Profile%20Views&color=0e75b6)](https://github.com/RanitMukherjee)
-
 [![An image of @jelly_phantasm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jelly_phantasm)](https://holopin.io/@jelly_phantasm)
+
 ---
 
 ## 🛠️ Technical Skills
@@ -16,23 +16,13 @@
 
 ---
 
-## 🚩 Notable Projects
+## 📊 GitHub Stats
 
-### 🎮 [3D Real-time Multiplayer Shooting Game](https://battle-blitz.vercel.app/)
-> **Browser-based multiplayer game with real-time 3D gameplay and networking.**  
-> *Tech:* React, Node.js, Three.js, Socket.io
-
----
-
-### 📝 [Sentiment Analysis](https://github.com/RanitMukherjee/Sentiment_Analysis)
-> **Twitter sentiment classifier using CNN and fine-tuned BERT models.**  
-> *Tech:* Python, TensorFlow, BERT
-
----
-
-### 🤖 [EmotiCare — Mental Health Companion](https://github.com/RanitMukherjee/EmotiCare)
-> **AI chatbot for emotion detection and empathetic response generation.**  
-> *Tech:* Python, Streamlit, NLP, Deep Learning
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RanitMukherjee&theme=radical&show_icons=true&hide_border=false&include_all_commits=false&count_private=false" alt="Ranit's GitHub stats" width="400"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanitMukherjee&theme=radical&hide_border=false" alt="GitHub Streak" width="400"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitMukherjee&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400"/>
+</p>
 
 ---
 
@@ -43,6 +33,3 @@
 - 🏆 **Team Lead**, Smart India Hackathon 2023: Won college round, represented for Tinnitus Relief PS
 - 🌱 **Open Source Contributor:** Hacktoberfest 2022, Layer5, FOSS Hack 2024
 - 💡 **Interests:** Open source, AI/ML, NLP, full-stack & scalable web apps, game development, hackathons
-
----
-
