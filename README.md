@@ -39,12 +39,5 @@
 - **Interests:** Open source, AI/ML, NLP, full-stack & scalable web apps, game development, hackathons
 
 ---
-
-## 🌐 Find Me Online
-
-[LinkedIn](https://www.linkedin.com/in/ranitmukherjee2003) &nbsp;|&nbsp;
-[GitHub](https://github.com/RanitMukherjee) &nbsp;|&nbsp;
-[LeetCode](https://leetcode.com/u/ranitmukherjee) &nbsp;|&nbsp;
-[Kaggle](https://www.kaggle.com/ranitm)  
-📧 [littleranit@gmail.com](mailto:littleranit@gmail.com)
+[![An image of @jelly_phantasm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jelly_phantasm)](https://holopin.io/@jelly_phantasm)
 
