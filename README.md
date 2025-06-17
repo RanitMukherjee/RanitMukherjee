@@ -5,14 +5,30 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
+<p>
+  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="40"/>
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="40"/>
+  <img src="https://cdn.simpleicons.org/python" alt="Python" width="40"/>
+  <img src="https://cdn.simpleicons.org/go" alt="Go" width="40"/>
+  <img src="https://cdn.simpleicons.org/c" alt="C" width="40"/>
+  <img src="https://cdn.simpleicons.org/cplusplus" alt="C++" width="40"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="40"/>
+  <img src="https://cdn.simpleicons.org/express" alt="Express.js" width="40"/>
+  <img src="https://cdn.simpleicons.org/react" alt="React" width="40"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" width="40"/>
+  <img src="https://cdn.simpleicons.org/threedotjs" alt="Three.js" width="40"/>
+  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="40"/>
+  <img src="https://cdn.simpleicons.org/sqlite" alt="SQLite" width="40"/>
+  <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="40"/>
+  <img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="40"/>
+  <img src="https://cdn.simpleicons.org/git" alt="Git" width="40"/>
+  <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="40"/>
+  <img src="https://cdn.simpleicons.org/kubernetes" alt="Kubernetes" width="40"/>
+  <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="40"/>
+</p>
 
-| 💻 **Languages** | JavaScript/TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; Java &nbsp;·&nbsp; Go &nbsp;·&nbsp; C/C++ |
-|------------------|---------------------------------------------------------------------------------------------------|
-| ⚡ **Frameworks** | Node.js &nbsp;·&nbsp; Express.js &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Three.js |
-| 🗄️ **Databases** | PostgreSQL &nbsp;·&nbsp; SQLite &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Supabase &nbsp;·&nbsp; Qdrant  |
-| 🛠️ **Tools**     | Git &nbsp;·&nbsp; Docker &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; Postman           |
-| 🧠 **Other**      | Data Structures & Algorithms &nbsp;·&nbsp; Networking Basics &nbsp;·&nbsp; DevOps                  |
+
 
 ---
 
