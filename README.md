@@ -23,11 +23,12 @@
 
 ## 🏆 Achievements & Interests
 
-- 🏅 **Ranked 100th/444** in OES Hackathon, HackerEarth
-- 🥇 **Lead Developer**, Corridor Platform Hackathon (Top 8/50+ teams): Built Rule Builder system
-- 🏆 **Team Lead**, Smart India Hackathon 2023: Won college round, represented for Tinnitus Relief PS
-- 🌱 **Open Source Contributor:** Hacktoberfest 2022, Layer5, FOSS Hack 2024
-- 💡 **Interests:** Open source, AI/ML, NLP, full-stack & scalable web apps, game development, hackathons
+- **OES Hackathon, HackerEarth:** Ranked 100/444
+- **Corridor Platform Hackathon:** Lead Developer, Top 8/50+ teams (built Rule Builder)
+- **Smart India Hackathon 2023:** Team Lead, college round winner, represented for Tinnitus Relief PS
+- **Open Source Contributor:** Hacktoberfest 2022, Layer5, FOSS Hack 2024
+
+**Interests:** Open source, AI/ML, NLP, full-stack & scalable web apps, game development, hackathons
 
 ---
 
