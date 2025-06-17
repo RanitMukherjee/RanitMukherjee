@@ -18,9 +18,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanitMukherjee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Ranit's GitHub stats" width="400" style="margin-right: 20px;"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RanitMukherjee&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="400" style="margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RanitMukherjee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&card_width=400" alt="Ranit's GitHub stats" height="200"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RanitMukherjee&theme=tokyonight&hide_border=false&card_width=400" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitMukherjee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=400" alt="Top Languages" height="200"/>
 </p>
+
+
+
+
+
 
 
 
