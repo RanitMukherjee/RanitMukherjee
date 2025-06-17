@@ -1,6 +1,7 @@
 # Hi, I'm Ranit Mukherjee 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=RanitMukherjee&label=Profile%20Views&color=0e75b6)](https://github.com/RanitMukherjee)
+
 [![An image of @jelly_phantasm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jelly_phantasm)](https://holopin.io/@jelly_phantasm)
 
 
