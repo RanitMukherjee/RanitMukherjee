@@ -1,4 +1,6 @@
-# Hi, I'm Ranit Mukherjee 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=0e75b6&center=false&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Ranit+Mukherjee;Welcome+to+my+GitHub+profile!;Happy+to+connect+with+you+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=RanitMukherjee&label=Profile%20Views&color=0e75b6)](https://github.com/RanitMukherjee)
 
