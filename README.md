@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=0e75b6&center=false&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Ranit+Mukherjee;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Feel+free+to+explore...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=00FFFF&center=false&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Ranit+Mukherjee;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Feel+free+to+explore...)](https://git.io/typing-svg)
 
 
 
