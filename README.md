@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=0e75b6&center=false&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Ranit+Mukherjee;Welcome+to+my+GitHub+profile!;Happy+to+connect+with+you+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=0e75b6&center=false&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Ranit+Mukherjee;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Feel+free+to+explore...)](https://git.io/typing-svg)
 
 
 
@@ -36,21 +36,22 @@
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="40"/>
-  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="40"/>
-  <img src="https://cdn.simpleicons.org/python" alt="Python" width="40"/>
-  <img src="https://cdn.simpleicons.org/go" alt="Go" width="40"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="40"/>
-  <img src="https://cdn.simpleicons.org/express" alt="Express.js" width="40"/>
-  <img src="https://cdn.simpleicons.org/react" alt="React" width="40"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" width="40"/>
-  <img src="https://cdn.simpleicons.org/threedotjs" alt="Three.js" width="40"/>
-  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="40"/>
-  <img src="https://cdn.simpleicons.org/sqlite" alt="SQLite" width="40"/>
-  <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="40"/>
-  <img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="40"/>
-  <img src="https://cdn.simpleicons.org/git" alt="Git" width="40"/>
-  <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="40"/>
-  <img src="https://cdn.simpleicons.org/kubernetes" alt="Kubernetes" width="40"/>
-  <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="40"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
