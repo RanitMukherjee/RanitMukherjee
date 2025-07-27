@@ -30,7 +30,7 @@
 - **Smart India Hackathon 2023:** Team Lead, college round winner, represented for Tinnitus Relief PS
 - **Open Source Contributor:** Hacktoberfest 2022, Layer5, FOSS Hack 2024
 
-**Interests:** Open source, AI/ML, NLP, full-stack & scalable web apps, game development, hackathons
+**Interests:** Open source, AI/ML, full-stack & scalable web apps, game development, hackathons
 
 ---
 
