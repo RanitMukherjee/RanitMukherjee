@@ -27,7 +27,7 @@
 
 - **OES Hackathon, HackerEarth:** Ranked 100 globally
 - **Corridor Platform Hackathon:** Lead Developer, Top 8/50+ teams (built Rule Builder)
-- **Smart India Hackathon 2023:** Team Lead, college round winner, represented for Tinnitus Relief PS
+- **SIH 2023:** Team Lead, college round winner, represented for Tinnitus Relief PS
 - **Open Source Contributor:** Layer5, FOSS Hack 2024, Hacktoberfest 2022
 
 **Interests:** Open source, AI/ML, full-stack & scalable web apps, game development, hackathons
