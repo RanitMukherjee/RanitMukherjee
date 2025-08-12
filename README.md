@@ -30,7 +30,7 @@
 - **SIH 2023:** Team Lead, college round winner, represented for Tinnitus Relief PS
 - **Open Source Contributor:** Layer5, FOSS Hack 2024, Hacktoberfest 2022
 
-**Interests:** Open source, AI/ML, full-stack & scalable web apps, game development, hackathons
+**Interests:** AI/ML, full-stack & scalable web apps, game development, hackathons
 
 ---
 
